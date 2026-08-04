@@ -32,7 +32,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ritiksharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/harsh-yadav09)][!
+[![Linkedin Badge](https://img.shields.io/badge/-Harshyadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/harsh-yadav09)][!
 
 <br>
 <br>
