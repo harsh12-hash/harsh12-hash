@@ -25,7 +25,6 @@
 - :computer: I'm a Student, currently pursuing computer science engineering
 - :hourglass_flowing_sand: Exploring Real life problem based project
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project : Crop & Geo Dased Diseases Detection System
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :trophy: ~~~~~~
 - :zap: Fun fact: I love to Explore for learning<br>
