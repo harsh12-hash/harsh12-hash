@@ -1,90 +1,114 @@
-<h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
+<h1 align="center">
+  Hey there 👋 I'm Harsh Yadav
+</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Problem Solver | Cloud & AI Enthusiast
+💻 CSE Student | ☁️ Azure Certified | 🤖 AI Enthusiast | 🚀 Future Full Stack Developer
 </h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+Name: Harsh Yadav
+Role: Computer Science Engineering Student
+University: Chandigarh University
+Year: 2nd Year
+Focus:
+  - Data Structures & Algorithms
+  - Web Development
+  - Cloud Computing
+  - Artificial Intelligence
+```
+
+🌱 Currently learning **Web Development**
+
+🧩 Solving problems on **LeetCode**
+
+☁️ Azure Certified (AZ-900)
+
+🤖 Azure AI Certified (AI-900)
+
+⚡ Turning coffee into code
+
+---
+
+## 🛠️ Tech Arsenal
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,git,github,vscode,azure" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Stats
 
-- 🎓 Second-year Computer Science Engineering student at Chandigarh University
-- 💻 Skilled in C, C++ and Java fundamentals
-- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
-- 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900)
-- 🧩 Practicing problem-solving on LeetCode
-- 🌱 Currently learning Web Development and exploring Cloud Technologies
-- 🚀 Passionate about building projects and improving technical skills
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-- C
-- C++
-- Java
-
-### Web Development
-- HTML
-- CSS
-- JavaScript
-
-### Cloud & AI
-- Microsoft Azure
-- Azure AI Fundamentals
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📂 Projects
-
-### 🎯 Student Grade Management System
-- Developed a C++ console application to calculate grades, percentage, pass/fail status, highest and lowest marks.
-- Implemented arrays, functions, loops, conditional statements, and input validation.
-
-### 🌐 Portfolio Website
-- Designed and developed a responsive personal portfolio website using HTML and CSS.
-- Showcases skills, certifications, and projects.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🏆 Certifications
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
+🥇 Microsoft Azure Fundamentals (AZ-900)
+
+🥇 Microsoft Azure AI Fundamentals (AI-900)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Student Grade Management System
+```cpp
+Input Marks
+↓
+Calculate Total
+↓
+Calculate Percentage
+↓
+Generate Grade
+↓
+Display Result
+```
+
+### 🌐 Portfolio Website
+Responsive personal website showcasing skills, certifications and projects.
 
 ---
 
 ## 📈 Coding Profiles
 
-- LeetCode: https://leetcode.com/u/Harsh_yadav09/
+🔗 LeetCode:
+https://leetcode.com/u/Harsh_yadav09/
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Mission
 
-- Improve Data Structures and Algorithms skills
-- Build real-world projects
-- Learn Full-Stack Web Development
-- Explore AI and Cloud Computing
+🔥 Improve DSA
 
----
+🚀 Build Better Projects
 
-## 🤝 Connect With Me
+🌐 Learn Full Stack Development
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: https://github.com/harsh12-hash
-- LeetCode: https://leetcode.com/u/Harsh_yadav09/
+☁️ Explore Cloud & AI
 
 ---
 
-⭐ Always learning, building, and growing.
+<div align="center">
+
+### ⚡ "Learn. Build. Repeat."
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Azure+Certified;Problem+Solver;Always+Learning+New+Things" />
+
+</div>
