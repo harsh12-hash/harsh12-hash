@@ -32,7 +32,7 @@ Computer Science Engineering Student | Problem Solver | Cloud & AI Enthusiast
 ### Web Development
 - HTML
 - CSS
-- JavaScript (Learning)
+- JavaScript
 
 ### Cloud & AI
 - Microsoft Azure
@@ -82,7 +82,7 @@ Computer Science Engineering Student | Problem Solver | Cloud & AI Enthusiast
 ## 🤝 Connect With Me
 
 - LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/harsh12-hash
 - LeetCode: https://leetcode.com/u/Harsh_yadav09/
 
 ---
